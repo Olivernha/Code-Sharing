@@ -1,7 +1,6 @@
 <template>
   <div
-    class="min-h-screen relative overflow-hidden bg-[#406AFF]"
-    :style="{ backgroundImage: `url('@/src/assets/resources/Hero-Background-notecode@2x.png')`, backgroundSize: 'cover', backgroundPosition: 'center -200px', backgroundRepeat: 'no-repeat' }"
+    class="min-h-screen relative overflow-hidden bg-[#406AFF] bg-container"
   >
 
     <div class="px-4 py-8 flex flex-col items-center justify-center">
