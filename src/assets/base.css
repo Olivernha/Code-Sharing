@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.bg-container{
+  background-image: url(../assets/resources/Hero-Background-notecode@2x.png);
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  min-height: 500px;
+}
